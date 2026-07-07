@@ -7,7 +7,19 @@ Power BI • DAX • Power Query • Data Modeling • Interactive Dashboard
 <p align="center">
 <img src="Dashboard.png" width="1000">
 </p>
+......................................................................................................................................................................
+## 📌 Description
 
-<p align="center">
-An interactive Power BI dashboard designed to analyze PhonePe transaction data, providing insights into customer activity, service performance, transaction trends, and business growth through dynamic KPIs, advanced DAX calculations, and interactive visualizations.
-</p>
+This project presents an interactive **Power BI dashboard** that analyzes PhonePe transaction data to uncover customer behavior, transaction trends, service performance, and business growth. It leverages **Power Query**, **DAX**, and **data modeling** to deliver dynamic KPIs, insightful visualizations, and actionable business insights through an intuitive and interactive interface.
+
+---
+
+## 🚀 Features
+
+- 📈 Interactive KPI Cards
+- 📊 Transaction Trend Analysis
+- 💰 Service-wise Transaction Value
+- 👥 User Demographics Analysis
+- 📅 Time Intelligence using DAX
+- 🎯 Custom Report Page Tooltips
+- 🔄 Dynamic Slicers & Filters
