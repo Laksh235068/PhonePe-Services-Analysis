@@ -7,19 +7,74 @@ Power BI • DAX • Power Query • Data Modeling • Interactive Dashboard
 <p align="center">
 <img src="Dashboard.png" width="1000">
 </p>
-<br> 
-## 📌 Description
+<br>
 
-This project presents an interactive **Power BI dashboard** that analyzes PhonePe transaction data to uncover customer behavior, transaction trends, service performance, and business growth. It leverages **Power Query**, **DAX**, and **data modeling** to deliver dynamic KPIs, insightful visualizations, and actionable business insights through an intuitive and interactive interface.
+## 🚀 Project Overview
+
+This dashboard enables users to:
+
+- 📈 Analyze monthly transaction trends
+- 💰 Monitor transaction value and volume
+- 👥 Explore user demographics
+- 🏦 Compare service-wise performance
+- 📅 Analyze weekday vs weekend activity
+- 📊 Track Month-over-Month (MoM) growth
+- 🎯 Interact with dynamic slicers and custom tooltips
 
 ---
 
-## 🚀 Features
+## 🛠️ Tech Stack
 
-- 📈 Interactive KPI Cards
-- 📊 Transaction Trend Analysis
-- 💰 Service-wise Transaction Value
-- 👥 User Demographics Analysis
-- 📅 Time Intelligence using DAX
-- 🎯 Custom Report Page Tooltips
-- 🔄 Dynamic Slicers & Filters
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+
+---
+
+## 📚 Key DAX Functions
+
+- `CALCULATE()`
+- `DATEADD()`
+- `DISTINCTCOUNT()`
+- `SUM()`
+- `FORMAT()`
+- `IF()`
+- `WEEKDAY()`
+- `CALENDAR()`
+- `ADDCOLUMNS()`
+
+---
+
+## 📊 Key Insights
+
+- 📌 Loans contribute the highest transaction value.
+- 📌 Recharge Bills contribute the least.
+- 📌 Transaction value shows positive MoM growth.
+- 📌 Weekday transactions exceed weekend activity.
+- 📌 Adults represent the largest user segment.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX & Time Intelligence
+- KPI Development
+- Interactive Dashboard Design
+- Business Analysis
+
+---
+
+## 👨‍💻 Author
+
+**Lakshay**
+
+**Aspiring Data Analyst | Data Engineering Enthusiast**
+
+**Skills:** SQL • Power BI • Python • Excel • Azure • ETL • Data Warehousing • DAX
+
+---
+
+⭐ **If you found this project useful, consider giving it a Star!**
